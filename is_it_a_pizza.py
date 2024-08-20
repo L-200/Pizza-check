@@ -10,5 +10,3 @@ elif awnser == "no": #check if awnser says no
 
 else:
     print("I don't know how to read what you said")
-import time
-time.sleep(4.5)
