@@ -1,3 +1,4 @@
+import time
 print("Hello, this wil help you indentify wether your food is a pizza")
 print("Are you eating a pizza?(please say yes or no)")
 awnser = input() # user input 
@@ -10,3 +11,4 @@ elif awnser == "no": #check if awnser says no
 
 else:
     print("I don't know how to read what you said")
+time.sleep(5)
